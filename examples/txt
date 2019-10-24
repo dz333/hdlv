@@ -1,0 +1,17 @@
+
+
+Module xasdfk;jasdlkfj:
+
+ input hello;
+ output yes;
+
+
+
+
+Module Top:
+
+
+ inst varname of xasdfkzjesr;
+
+ varname.input.hello <= varname.output.yes;
+
